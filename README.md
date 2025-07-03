@@ -5,5 +5,6 @@
 Check out my [Portfolio](https://www.macraesmith.com)! <br>
 
 Or check out my personal projects: <br>
-[Custom C++ Engine](https://github.com/MacraeSmith/Custom-Engine.git) <br>
-[Starship Gold](https://github.com/MacraeSmith/Starship-Gold.git) <br>
+* [Custom C++ Engine](https://github.com/MacraeSmith/Custom-Engine.git) <br>
+* [Starship Gold](https://github.com/MacraeSmith/Starship-Gold.git) <br>
+* [Libra](https://github.com/MacraeSmith/Libra.git) <br>
