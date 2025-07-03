@@ -4,6 +4,6 @@ My name is Macrae and I am a Graphics Programmer and Technical Artist. I have ex
 
 Check them out on my [Portfolio](https://www.macraesmith.com)!
 
-Or check out my personal projects:
+Or check out my personal projects: <br>
 [My Custom C++ Engine](https://github.com/MacraeSmith/Custom-Engine.git) <br>
 [Starship Gold](https://github.com/MacraeSmith/Starship-Gold.git) <br>
