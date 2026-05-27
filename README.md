@@ -1,6 +1,6 @@
 ## Hi there 👋 <br>
 ### My name is Macrae and I am a Graphics and Gameplay Programmer with additional experience as a Technical Artist. I have experience in Unreal Engine, Unreal Fortnite Editor, Unity, and my own custom C++ game engine. I enjoy making visually appealing and engaging games and am continuously working on new projects. 
-[![Watch the Video](https://github.com/user-attachments/assets/f6d24201-e626-45f6-86d7-9ce046c07d76)](https://www.youtube.com/watch?v=oD9LvIMn968)
+[![Image](https://github.com/user-attachments/assets/d33222be-1fbe-4d2e-9ea5-2115b2bd73e0)]
 
 Check out my [Portfolio](https://www.macraesmith.com)! <br>
 
