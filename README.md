@@ -6,6 +6,6 @@ Check out my [Portfolio](https://www.macraesmith.com)! <br>
 
 Or check out my personal projects: <br>
 * [Custom C++ Engine](https://github.com/MacraeSmith/Custom-Engine.git) <br>
-* [Procedural Generation and Rendering Techniques for Underwater Environments](https://github.com/MacraeSmith/Procedural-Generation-and-Rendering-Techniques-for-Underwater-Environments.git)<br>
+* [Procedural Underwater Environments](https://github.com/MacraeSmith/Procedural-Generation-and-Rendering-Techniques-for-Underwater-Environments.git)<br>
 * [Simple Miner](https://github.com/MacraeSmith/Simple-Miner) <br>
 
